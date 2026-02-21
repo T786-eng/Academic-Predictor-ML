@@ -1,0 +1,4 @@
+pandas (for data manipulation)
+matplotlib (for plotting)
+scikit-learn (for the machine learning model)
+
